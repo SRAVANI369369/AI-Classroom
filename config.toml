@@ -1,0 +1,3 @@
+[runner]
+# Force the app to run on a stable Python version compatible with OpenCV.
+python_version = "3.11"
