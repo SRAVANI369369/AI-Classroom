@@ -1,0 +1,8 @@
+# List of required Python packages for the AI Classroom Monitoring System
+# Install using: pip install -r requirements.txt
+
+streamlit
+opencv-python>=4.12.0.88  # Requires a version supported by your OS/Python
+numpy
+pandas
+requests  # Used internally to potentially download DNN model files (deploy.prototxt)
